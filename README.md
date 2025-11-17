@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**6CRIPT/6CRIPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **César**, a **Machine Learning Engineer** passionate about building practical, scalable, and user-focused products.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On
+- **Hireves** — Software focused on optimizing ambulance response times in Spain. Developing the algorithms and the user interface for the specialists who will use the tool soon.
+- **PyAssets** — An asset-management ecosystem for all kinds of investors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- **Master's Degree in Computer Science** at the **University of Copenhagen (Denmark)** with a strong focus on **Artificial Intelligence courses**.
+
+### 🧩 What I Like to Work On
+- **Artificial Intelligence**
+- **Software Engineering**
+- **Blockchain**
+
+### 🤝 Open to Work With
+- Teams or startups working on **AI** or **blockchain**
+- Cutting-edge tech companies
+
+### 📫 How to Reach Me
+- **LinkedIn:** https://www.linkedin.com/in/c%C3%A9sarmart%C3%ADnezchico/  
+- **Website:** https://cesarmc.com/
