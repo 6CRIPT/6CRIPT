@@ -3,8 +3,8 @@
 I'm **César**, a **Machine Learning Engineer** passionate about building practical, scalable, and user-focused products.
 
 ### 🚀 Currently Working On
--**Microsoft** — I am currently working for Microsoft Denmark, on the BC project.
--**CV Optimizer** — Software to optimize a CV based on AI techniques.
+- **Microsoft** — I am currently working for Microsoft Denmark, on the BC project.
+- **CV Optimizer** — Software to optimize a CV based on AI techniques.
 - **Hireves** — Software focused on optimizing ambulance response times in Spain. Developing the algorithms and the user interface for the specialists who will use the tool soon.
 - **PyAssets** — An asset-management ecosystem for all kinds of investors.
 
